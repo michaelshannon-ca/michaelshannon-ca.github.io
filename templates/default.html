@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    $partial("templates/head.html")$
+    <body>
+        $partial("templates/header.html")$
+        <div class="content">
+            $if(skip_body_title)$
+                <!-- no title -->
+            $else$
+                <h1>$title$</h1>
+            $endif$
+
+            $body$
+
+        </div>
+        $partial("templates/footer.html")$
+    </body>
+</html>
+
