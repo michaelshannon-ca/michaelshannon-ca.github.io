@@ -1,3 +1,7 @@
 _cache/
 .stack-work/
 *~
+.DS_Store
+.vscode
+stack.yaml.lock
+
