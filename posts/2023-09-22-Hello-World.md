@@ -23,15 +23,16 @@ Undefined symbols for architecture x86_64:
 More detailed explanatios as to what are happening are available [here](https://stackoverflow.com/questions/57734434/libiconv-or-iconv-undefined-symbol-on-mac-osx), [here](https://trac.macports.org/ticket/57821), [here](https://trac.macports.org/ticket/61222) and [here](https://gitlab.haskell.org/ghc/ghc/-/issues/18743).
 
 Hakyll was nice and straight forward and with the help of the following postings:
-[official tutorial](https://jaspervdj.be/hakyll/tutorials/01-installation.html)
-[more detailed tutorial](https://robertwpearce.com/hakyll-pt-1-setup-initial-customization.html)
-[an example of using Hakyll with Github.io](https://thma.github.io/posts/2020-11-15-using-hakyll-with-github-pages.html)
-[and a layout I wanted to shamelessly copy](https://charukiewi.cz/)
+- [official tutorial](https://jaspervdj.be/hakyll/tutorials/01-installation.html)
+- [more detailed tutorial](https://robertwpearce.com/hakyll-pt-1-setup-initial-customization.html)
+- [an example of using Hakyll with Github.io](https://thma.github.io/posts/2020-11-15-using-hakyll-with-github-pages.html)
+- [how to copy CNAME and robots.txt to your docs/](https://robertwpearce.com/hakyll-pt-4-copying-static-files-for-your-build.html)
+- [and a layout I wanted to shamelessly copy](https://charukiewi.cz/)
 ... I was off to the races.
 
 Why even post this? Well, I wanted to play with Hakyll a bit more and I need some content to populate my "posts/" section of this site.
 
-Thanks for reading this,
+Thanks for reading this,  
 Mike 
 
 

@@ -139,6 +139,14 @@ main =
 
         match "templates/*" $ compile templateBodyCompiler
 
+        match "CNAME" $ do
+            route   idRoute
+            compile copyFileCompiler
+
+        match "robots.txt" $ do
+            route idRoute
+            compile copyFileCompiler
+
 
 --------------------------------------------------------------------------------
 postCtx :: Context String
