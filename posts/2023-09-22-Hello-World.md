@@ -12,7 +12,7 @@ None the less, I wasn't ready to give my bits and bytes to other platforms and I
 maintaning web-ish infrastructure for other projects so the free hosting available via GitHub.io was key.
 And, since I enjoy [Haskell](https://www.haskell.org/ "Haskell"), [Hakyll](https://jaspervdj.be/hakyll/ "Hakyll") was my chosen alternative to the dominate [Jekyll](https://jekyllrb.com/ "Jekyll").
 
-It wasn't the smoothest ride. In attempting to be "with it" and update to the current Haskell ways I installed [GHCup](https://www.haskell.org/ghcup/ "GHCup") and promptly ran into the dreaded [Macports](https://www.macports.org/ "Macports") and Haskell "libiconv port function name manglingi collision with Haskell problem" which manifests itself as:
+It wasn't the smoothest ride. In attempting to be "with it" and update to the current Haskell ways I installed [GHCup](https://www.haskell.org/ghcup/ "GHCup") and promptly ran into the dreaded [Macports](https://www.macports.org/ "Macports") and Haskell "libiconv port function name mangling collision with Haskell problem" which manifests itself as:
 `...
 Linking dist/build/hakyll-init/hakyll-init ...
 Undefined symbols for architecture x86_64:

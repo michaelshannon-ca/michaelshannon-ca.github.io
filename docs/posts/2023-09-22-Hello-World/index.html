@@ -13,6 +13,16 @@
     <link rel="stylesheet" type="text/css" href="../../css/syntax.css" />
     <link rel="stylesheet" type="text/css" href="../../assets/font-awesome/css/font-awesome.min.css" />
     <link href="../../images/fav.png" rel="shortcut icon">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4ML0FSW68P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4ML0FSW68P');
+</script>
+
 </head>
 
     <body>
@@ -49,7 +59,7 @@ Truth be told, even this is more public than I’m completely comfortable with.<
 <p>None the less, I wasn’t ready to give my bits and bytes to other platforms and I waste too much of my life
 maintaning web-ish infrastructure for other projects so the free hosting available via GitHub.io was key.
 And, since I enjoy <a href="https://www.haskell.org/" title="Haskell">Haskell</a>, <a href="https://jaspervdj.be/hakyll/" title="Hakyll">Hakyll</a> was my chosen alternative to the dominate <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a>.</p>
-<p>It wasn’t the smoothest ride. In attempting to be “with it” and update to the current Haskell ways I installed <a href="https://www.haskell.org/ghcup/" title="GHCup">GHCup</a> and promptly ran into the dreaded <a href="https://www.macports.org/" title="Macports">Macports</a> and Haskell “libiconv port function name manglingi collision with Haskell problem” which manifests itself as:
+<p>It wasn’t the smoothest ride. In attempting to be “with it” and update to the current Haskell ways I installed <a href="https://www.haskell.org/ghcup/" title="GHCup">GHCup</a> and promptly ran into the dreaded <a href="https://www.macports.org/" title="Macports">Macports</a> and Haskell “libiconv port function name mangling collision with Haskell problem” which manifests itself as:
 <code>... Linking dist/build/hakyll-init/hakyll-init ... Undefined symbols for architecture x86_64:   "_iconv", referenced from:       _hs_iconv in libHSbase-4.16.4.0.a(iconv.o)       ...</code></p>
 <p>More detailed explanatios as to what are happening are available <a href="https://stackoverflow.com/questions/57734434/libiconv-or-iconv-undefined-symbol-on-mac-osx">here</a>, <a href="https://trac.macports.org/ticket/57821">here</a>, <a href="https://trac.macports.org/ticket/61222">here</a> and <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/18743">here</a>.</p>
 <p>Hakyll was nice and straight forward and with the help of the following postings:
