@@ -100,7 +100,7 @@ At Sophos Ltd, my role as Vulnerability Research Manager involved establishing e
 As a Principal Threat Researcher at Sophos Ltd, I orchestrated advanced threat intelligence collection and steered the response to emerging security threats, safeguarding organizational and client interests.
 
 * Directed the Apple Threats and Network Intrusion Research groups, delivering cutting-edge software solutions
-* Played a pivotal role in identifying emerging virtualization technologies and system security considerations
+* Played a pivotal role in identifying emerging virtualisation technologies and system security considerations
 * Contributed key changes to both endpoint and network detection and remediation engines.
 
 
