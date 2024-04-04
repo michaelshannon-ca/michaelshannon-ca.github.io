@@ -12,7 +12,7 @@ title: Résumé
 
 <div class="prosum">
 
-Dynamic Product & Systems Architect with over 23 years in the computer security industry. A results-driven leader fortified with years of executive coaching,  bringing a rich background in strategic planning, technology evaluation, and executive leadership. Expertise in guiding high-performing engineering teams for optimal project outcomes. Adept at bridging business goals with technological advancements to curate a competitive cybersecurity portfolio. Deep-rooted connections within the global cybersecurity domain.
+Seasoned Engineering Leader with over two decades of experience in the tech industry, specializing in cybersecurity and software development. Known for fostering high-trust environments where innovation and autonomy flourish, I bring a track record of leading cross-functional teams to deliver cutting-edge solutions. With a passion for nurturing talent and promoting a culture of continuous improvement, I excel at guiding teams through complex technical challenges while maintaining a focus on strategic objectives.
 
 </div>
 
