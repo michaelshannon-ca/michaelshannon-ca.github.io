@@ -5,7 +5,7 @@ title: About
 <div class="content-body">
 
 <p><b>Seasoned Product & Systems Architect</b><br/>
-With over 23 years in the computer security industry, I bring a rich history of blending business needs with technological advancements, always fostering a competitive edge in cybersecurity landscapes. My track record speaks to strategic planning, technical proficiency, including experiences from low-level reverse engineering to high level cloud architectures. I posses a deep understanding of both the technical and business dynamics in cybersecurity</p>
+With over 24 years in the computer security industry, I bring a rich history of blending business needs with technological advancements, always fostering a competitive edge in cybersecurity landscapes. My track record speaks to strategic planning, technical proficiency, including experiences from low-level reverse engineering to high level cloud architectures. I posses a deep understanding of both the technical and business dynamics in cybersecurity</p>
 
 <p><b>A Leader and Mentor</b><br/>
 Cultivated from years of executive coaching my leadership style is rooted in nurturing talent and fostering collaborative environments. Grounded in the principles of mentorship, my leadership goes beyond merely instructing teams; it involves actively listening to their ideas and feedback and empowering them to take ownership of projects.  </p>
