@@ -169,6 +169,7 @@ Abstract<br/>
 **<b>Traffic scanning with context-aware threat signatures</b>** *(Inventor)* - *<a href="https://patents.google.com/patent/GB202309629D0" target="_blank">GB202309629D0</a> June 2023 - <a href="https://patents.google.com/patent/US20230421579A1/en" target="_blank">US20230421579A1</a> (pending)*
 
 Abrstract<br/>
+
 - Threat management devices and methods. The methods include receiving, at an interface of a threat management device, contextual data associated with a first endpoint device that is in operable connectivity with the threat management device, wherein the threat management device is configured to execute at least one subsystem to scan network traffic. The methods further include determining at least a first signature from a plurality of signatures to use in scanning the network traffic based on the received contextual data and instructing the at least one subsystem to scan network traffic using at least the first determined signature.
 
 </div> 	 
