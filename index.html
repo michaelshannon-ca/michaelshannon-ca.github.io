@@ -7,8 +7,31 @@ thumbnail_image: /images/keyboard_signed_sm.png
 ---
 
 <div class="home-img">
-  <img alt="Sketch of Michael Shannon" title="Michael Shannon" src="/images/profile-1.png" style="object-fit:scale-down; height:350px;"/ >
+  <img 
+    id="profile-img" 
+    alt="Sketch of Michael Shannon" 
+    title="Michael Shannon" 
+    src="/images/profile-1.png" 
+    style="object-fit:scale-down; height:350px;"
+  / >
 </div>
+
+<!-- JavaScript for picking a random image from a list -->
+<script>
+  // Update this array with your own images:
+  const images = [
+    "/images/profile-1.png",
+    "/images/profile-2.png",
+    "/images/profile-3.png",
+    "/images/profile-4.png"
+  ];
+
+  // Randomly pick one:
+  const randomIndex = Math.floor(Math.random() * images.length);
+
+  // Set the picked image as the src for the <img> tag:
+  document.getElementById("profile-img").src = images[randomIndex];
+</script>
 
 <div class="content-body post-list">
   <p>I am a committed cybersecurity and software development leader with over 24 years guiding teams and spearheading key initiatives. My experience encompasses designing comprehensive cybersecurity strategies, steering the development of innovative cybersecurity products and services, and managing software development initiatives that that support broader organizational goals. With a solid background in both the technical and strategic aspects of cybersecurity and software development, I focus on bridging the gap between detailed technology solutions and overarching business objectives. Explore more <a href="/about/">about my journey</a> or <a href="/contact/">reach out</a> to see how my leadership can help advance your cybersecurity strategies.</p>

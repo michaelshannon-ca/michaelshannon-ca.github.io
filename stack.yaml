@@ -1,6 +1,16 @@
-resolver: lts-20.26
+resolver: lts-21.25
+
 packages:
   - .
+
 extra-deps:
-  - hakyll-4.16.1.0 
+  - hakyll-4.16.1.0
   - hakyll-sass-0.2.4
+
+extra-include-dirs:
+  - /opt/local/include
+extra-lib-dirs:
+  - /opt/local/lib
+
+ghc-options:
+  "$everything": "-liconv -L/opt/local/lib"
