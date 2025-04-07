@@ -12,7 +12,7 @@ title: Résumé
 
 <div class="prosum">
 
-Seasoned cybersecurity executive with over 20 years of expertise in spearheading comprehensive security programs. Proficient in developing and leading teams to implement innovative security strategies that enhance both product and infrastructure integrity. My experience encompasses direct leadership, strategic planning, and the integration of security within business processes through a DevOps and DevSecOps framework. With a solid background in executive coaching and reporting to C-level management, I excel in cross-functional collaboration, ensuring that security measures align seamlessly with corporate objectives and technological advancements. Known for a leadership approach that emphasizes adaptability, mentorship, and continuous learning, I am committed to fostering environments where innovation thrives and security is interwoven with every aspect of the organizational fabric.
+Seasoned cybersecurity executive with over 20 years of expertise in spearheading comprehensive security programs. <a href="https://www.cyber.gc.ca/en/guidance/certifications-field-cyber-security#tab6" target="_blank">Certified Chief Information Security Officer (CCISO)</a> and <a href="https://en.wikipedia.org/wiki/Certified_Information_Systems_Security_Professional" target="_blank">Certified Information Systems Security Professional (CISSP)</a>, proficient in developing and leading teams to implement innovative security strategies that enhance both product and infrastructure integrity. My experience encompasses direct leadership, strategic planning, and the integration of security within business processes through a DevOps and DevSecOps framework. With a solid background in executive coaching and reporting to C-level management, I excel in cross-functional collaboration, ensuring that security measures align with corporate objectives and technological advancements. Known for a leadership approach that emphasizes adaptability, mentorship, and continuous learning, I am committed to fostering environments where innovation thrives and security is interwoven with every aspect of the organizational fabric.
 
 </div>
 
@@ -148,6 +148,7 @@ At Mountain Equipment Co-op, I managed the deployment, operations, and managemen
 
 <div class="certifications">
 
+**<b>Certified Chief Information Security Officer (CCISO) - EC-Council</b>**  
 **<b>Certified Information Systems Security Professional *(CISSP)* - ISC<sup>2</sup></b>**
 
 </div>
